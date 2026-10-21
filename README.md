@@ -7,7 +7,7 @@ A set of C++ practice problems from **[getcracked.io](https://getcracked.io)** (
 | # | Problem | Difficulty | Solved |
 |---|---------|------------|--------|
 | 1 | [Avoiding False Sharing](#1-avoiding-false-sharing) | Easy | [X] |
-| 2 | [Composable Candlestick Attributes](#2-composable-candlestick-attributes) | Easy | [ ] |
+| 2 | [Composable Candlestick Attributes](#2-composable-candlestick-attributes) | Easy | [X] |
 | 3 | [Call Stack Sampling to Trace Events](#3-call-stack-sampling-to-trace-events) | Easy | [ ] |
 | 4 | [Redundant Feed Arbitration](#4-redundant-feed-arbitration) | Medium | [ ] |
 | 5 | [Selecting Instruments for a 30-Day Horizon](#5-selecting-instruments-for-a-30-day-horizon) | Medium | [ ] |
