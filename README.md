@@ -9,7 +9,7 @@ A set of C++ practice problems from **[getcracked.io](https://getcracked.io)** (
 | 1 | [Avoiding False Sharing](#1-avoiding-false-sharing) | Easy | [X] |
 | 2 | [Composable Candlestick Attributes](#2-composable-candlestick-attributes) | Easy | [X] |
 | 3 | [Call Stack Sampling to Trace Events](#3-call-stack-sampling-to-trace-events) | Easy | [X] |
-| 4 | [Redundant Feed Arbitration](#4-redundant-feed-arbitration) | Medium | [ ] |
+| 4 | [Redundant Feed Arbitration](#4-redundant-feed-arbitration) | Medium | [X] |
 | 5 | [Selecting Instruments for a 30-Day Horizon](#5-selecting-instruments-for-a-30-day-horizon) | Medium | [ ] |
 | 6 | [Parallel Accumulate](#6-parallel-accumulate) | Medium | [ ] |
 | 7 | [Optional with Small-Buffer Optimization](#7-optional-with-small-buffer-optimization) | Hard | [ ] |
