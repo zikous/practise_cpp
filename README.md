@@ -12,7 +12,7 @@ A set of C++ practice problems from **[getcracked.io](https://getcracked.io)** (
 | 4 | [Redundant Feed Arbitration](#4-redundant-feed-arbitration) | Medium | [X] |
 | 5 | [Selecting Instruments for a 30-Day Horizon](#5-selecting-instruments-for-a-30-day-horizon) | Medium | [ ] |
 | 6 | [Parallel Accumulate](#6-parallel-accumulate) | Medium | [X] |
-| 7 | [Optional with Small-Buffer Optimization](#7-optional-with-small-buffer-optimization) | Hard | [ ] |
+| 7 | [Optional with Small-Buffer Optimization](#7-optional-with-small-buffer-optimization) | Hard | [X] |
 | 8 | [Hybrid Spin/Block Mutex](#8-hybrid-spinblock-mutex) | Hard | [ ] |
 | 9 | [Lock-Free Single-Producer Single-Consumer Queue](#9-lock-free-single-producer-single-consumer-queue) | Hard | [ ] |
 | 10 | [Writer-Preferring Reader/Writer Lock](#10-writer-preferring-readerwriter-lock) | Hard | [ ] |
